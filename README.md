@@ -26,13 +26,8 @@ supervised and unsupervised machine learning, statistics
 
 
 
-- 🔭 I’m currently working at Daraz and teaching at IBA.
+- 🔭 I’m currently working at [Daraz](https://www.daraz.pk/) and teaching at [IBA](https://www.iba.edu.pk/).
 - 🌱 I’m currently learning Python.
-- 
 - 👯 I’m looking to collaborate on data analysis projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asad-sajid/)
+
