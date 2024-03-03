@@ -1,6 +1,11 @@
 ### Hi, I'm Asad 👋
 
 I am a Data Analyst who started working in 2019. I have a Masters in Business Analytics from Stevens Institute of Technology, USA.
+
+Languages:
+![image](https://github.com/Asadsajid1997/AsadSajid1997/assets/126636246/70e34746-e9ce-4b6b-9a86-33bf8a8facb6) ![image](https://github.com/Asadsajid1997/AsadSajid1997/assets/126636246/953af3eb-c550-443d-942e-c740d5987d80)
+
+
 <!--
 **Asadsajid1997/AsadSajid1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
