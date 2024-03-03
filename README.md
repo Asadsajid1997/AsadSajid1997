@@ -1,19 +1,35 @@
-### Hi, I'm Asad 👋
+## Hi, I'm Asad 👋
 
 I am a Data Analyst who started working in 2019. I have a Masters in Business Analytics from Stevens Institute of Technology, USA.
 
-Languages:
-![image](https://github.com/Asadsajid1997/AsadSajid1997/assets/126636246/70e34746-e9ce-4b6b-9a86-33bf8a8facb6) ![image](https://github.com/Asadsajid1997/AsadSajid1997/assets/126636246/953af3eb-c550-443d-942e-c740d5987d80)
+
+### Data Analysis & Visualization: 
+Talend, r-studio, jupyter notebook, SAS, multivariate statistical analysis, multiple regression, logistic regression, ANOVA, MANOVA, clustering analysis, dimensionality reduction, hypothesis testing using randomized and factorial design, Microsoft Excel, Gephi, Tableau, PowerBI
 
 
-<!--
-**Asadsajid1997/AsadSajid1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Query Languages & Libraries: 
+SQL Server, MySQL, PostgreSQL, DAX, R (ggplot2), python, numpy, pandas, matplot
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+### Machine Learning: 
+Deep learning, neural networks, computer vision, image classification, CNN, Scikit-Learn, PyTorch
+
+
+### Tools: 
+Jira, Trello, git
+
+
+### Skills: 
+ETL (extraction, transformation, and loading), business intelligence, data integration, data engineering, automation,
+supervised and unsupervised machine learning, statistics
+
+
+
+
+- 🔭 I’m currently working at Daraz and teaching at IBA.
+- 🌱 I’m currently learning Python.
+- 
+- 👯 I’m looking to collaborate on data analysis projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
