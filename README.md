@@ -1,6 +1,6 @@
 ## Hi, I'm Asad 👋
 
-I am a Data Analyst who started working in 2019. I have a Masters in Business Analytics from Stevens Institute of Technology, USA.
+I am a Data Analyst and Consultant who started working in 2019. I have a Masters in Business Analytics from Stevens Institute of Technology, USA.
 
 
 ### Data Analysis & Visualization: 
@@ -26,7 +26,7 @@ supervised and unsupervised machine learning, statistics
 
 
 
-- 🔭 I’m currently working at [Daraz](https://www.daraz.pk/) and teaching at [IBA](https://www.iba.edu.pk/).
+- 🔭 I’m currently working at [Marketlytics](https://marketlytics.com/) and teaching at [IBA](https://www.iba.edu.pk/).
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asad-sajid/)
