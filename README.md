@@ -4,11 +4,11 @@ I am a Data Analyst and Consultant who started working in 2019. I have a Masters
 
 
 ### Data Analysis & Visualization: 
-Talend, r-studio, jupyter notebook, SAS, multivariate statistical analysis, multiple regression, logistic regression, ANOVA, MANOVA, clustering analysis, dimensionality reduction, hypothesis testing using randomized and factorial design, Microsoft Excel, Gephi, Tableau, PowerBI
+Talend, r-studio, jupyter notebook, SAS, multivariate statistical analysis, multiple regression, logistic regression, ANOVA, MANOVA, clustering analysis, dimensionality reduction, hypothesis testing using randomized and factorial design, Microsoft Excel, Gephi, Tableau, PowerBI, SQL, Databricks, Google BigQuery
 
 
 ### Query Languages & Libraries: 
-SQL Server, MySQL, PostgreSQL, DAX, R (ggplot2), python, numpy, pandas, matplot
+SQL, PostgreSQL, DAX, R, python, numpy, pandas, matplot
 
 
 ### Machine Learning: 
