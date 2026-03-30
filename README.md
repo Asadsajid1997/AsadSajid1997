@@ -26,7 +26,7 @@ supervised and unsupervised machine learning, statistics
 
 
 
-- 🔭 I’m currently working at [Marketlytics](https://marketlytics.com/) and teaching at [IBA](https://www.iba.edu.pk/).
+- 🔭 I’m currently working at [Perch Insights](https://perchinsights.com/) and teaching at [IBA](https://www.iba.edu.pk/).
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asad-sajid/)
